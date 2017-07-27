@@ -1,0 +1,11 @@
+.h, .h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold; }
+
+.h1 {
+  color: #ccc;
+  font-size: 70px;
+  line-height: 40vh; }
+
+/*# sourceMappingURL=style.css.map */
