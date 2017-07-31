@@ -1,0 +1,14 @@
+$color1: #ccc;
+
+.h {
+	text-transform: uppercase;
+	line-height: 50px;
+	font-weight: bold;
+}
+
+.h1 {
+	@extend.h;
+	color: $color1;
+	margin: 45vh auto;
+	text-align: center;
+}
